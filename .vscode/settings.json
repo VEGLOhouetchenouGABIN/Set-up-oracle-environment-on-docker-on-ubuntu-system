@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "oracleOptions": {
+                "privilege": "Normal",
+                "thickMode": false,
+                "autoCommit": true,
+                "lowerCase": false,
+                "limitPrefetchRows": false
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1521,
+            "askForPassword": true,
+            "driver": "Oracle",
+            "name": "myOracleDb",
+            "database": "XE",
+            "username": "GABIN",
+            "group": "Simple"
+        }
+    ]
+}
